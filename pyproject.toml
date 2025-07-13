@@ -1,0 +1,15 @@
+[project]
+name = "enga74-trabalhofinal"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "notebook>=7.4.4",
+    "numpy>=2.3.1",
+    "optuna>=4.4.0",
+    "pandas>=2.3.1",
+    "scikit-learn>=1.7.0",
+    "seaborn>=0.13.2",
+    "torch>=2.7.1",
+]
