@@ -1,7 +1,7 @@
 [project]
 name = "enga74-trabalhofinal"
 version = "0.1.0"
-description = "Add your description here"
+description = "Previsão de irradiância solar em longo prazo com redes neurais."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
